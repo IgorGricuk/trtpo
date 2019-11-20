@@ -12,6 +12,9 @@
 4. Control [Activity](https://github.com/homelessinlaw/trtpo/blob/master/Diagramms/Activity%20Diagram4(Control).png) [Sequence](https://github.com/homelessinlaw/trtpo/blob/master/Diagramms/Sequence%20Diagram%204.png)
 
   [Use case](https://github.com/homelessinlaw/trtpo/blob/master/Diagramms/UseCase.png)
+  
   [Class Diagram](https://github.com/homelessinlaw/trtpo/blob/master/Diagramms/Class%20Diagram%20me.png)
+  
   [Component Diagram](https://github.com/homelessinlaw/trtpo/blob/master/Diagramms/Component%20Diagram%20me.png)
+  
   [Deployment Diagram](https://github.com/homelessinlaw/trtpo/blob/master/Diagramms/Deployment%20Diagram%20me.png)
